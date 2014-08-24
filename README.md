@@ -8,3 +8,21 @@ temps à la suite et distiller le plaisir sur l'ensemble de l'année.
 Vous n'y trouverez néanmoins pas les solution, juste ma progression et 
 peut-être une remarque ou deux si le problème proposé m'a ou non donné du fil 
 à retordre.
+
+
+TODO
+====
+
+Problème déjà faits par mes amis et non encore résolus par moi:
+21,32,36,42,52,92. 
+
+Il va donc falloir s'y intéresser dans un avenir proche...
+
+Done
+====
+
+Dim 24 août 2014: 15, 22, 23, 25, 29, 34
+Ven 22 août 2014 (réinscription sur le site): 
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,20,24,27,30,35,37,40,
+47,56,67,79,87,91,203
+
