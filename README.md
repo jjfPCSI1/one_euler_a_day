@@ -22,7 +22,7 @@ Done
 ====
 
 * Lun 25 août 2014: 45 (la méthode bourrine marche mais la méthode sioux est 
-  bien plus rapide !)
+  bien plus rapide !) et 19 (mais j'ai triché avec datetime)
 * Dim 24 août 2014: 15, 22, 23, 25, 29, 34
 * Ven 22 août 2014 (réinscription sur le site): 
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 27, 30, 35, 
