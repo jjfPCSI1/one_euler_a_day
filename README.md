@@ -16,7 +16,7 @@ TODO
 Problème déjà faits par mes amis et non encore résolus par moi:
 - [x] 21
 - [x] 32
-- [ ] 36
+- [x] 36
 - [ ] 42 
 - [ ] 52 
 - [ ] 92
@@ -26,6 +26,7 @@ Il va donc falloir s'y intéresser dans un avenir proche...
 Done
 ====
 
+* Mer 27 août 2014: 36
 * Mar 26 août 2014: 32 et 21 (et 48, oubli de mise à jour)
 * Lun 25 août 2014: 45 (la méthode bourrine marche mais la méthode sioux est 
   bien plus rapide !) et 19 (mais j'ai triché avec datetime)
