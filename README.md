@@ -14,13 +14,14 @@ TODO
 ====
 
 Problème déjà faits par mes amis et non encore résolus par moi:
-21, 32, 36, 42, 52, 92. 
+21, 36, 42, 52, 92. 
 
 Il va donc falloir s'y intéresser dans un avenir proche...
 
 Done
 ====
 
+* Mar 26 août 2014: 32
 * Lun 25 août 2014: 45 (la méthode bourrine marche mais la méthode sioux est 
   bien plus rapide !) et 19 (mais j'ai triché avec datetime)
 * Dim 24 août 2014: 15, 22, 23, 25, 29, 34
