@@ -14,12 +14,12 @@ TODO
 ====
 
 Problème déjà faits par mes amis et non encore résolus par moi:
-- [] 21
+- [ ] 21
 - [x] 32
-- [] 36
-- [] 42 
-- [] 52 
-- [] 92
+- [ ] 36
+- [ ] 42 
+- [ ] 52 
+- [ ] 92
 
 Il va donc falloir s'y intéresser dans un avenir proche...
 
