@@ -26,7 +26,7 @@ Il va donc falloir s'y intéresser dans un avenir proche...
 Done
 ====
 
-* Mar 26 août 2014: 32 et 21
+* Mar 26 août 2014: 32 et 21 (et 48, oubli de mise à jour)
 * Lun 25 août 2014: 45 (la méthode bourrine marche mais la méthode sioux est 
   bien plus rapide !) et 19 (mais j'ai triché avec datetime)
 * Dim 24 août 2014: 15, 22, 23, 25, 29, 34
