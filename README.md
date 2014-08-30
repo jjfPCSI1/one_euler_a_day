@@ -20,12 +20,14 @@ Problème déjà faits par mes amis et non encore résolus par moi:
 - [x] 42 
 - [x] 52 
 - [ ] 92
+- [x] 97
 
 Il va donc falloir s'y intéresser dans un avenir proche...
 
 Done
 ====
 
+* Sam 30 août 2014: 97 (facile :o)
 * Ven 29 août 2014: 52
 * Jeu 28 août 2014: 42
 * Mer 27 août 2014: 36
