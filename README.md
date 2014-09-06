@@ -27,6 +27,7 @@ Bon, pour le moment, tout est fait :o)
 Done
 ====
 
+* Sam 06 sep 2014: 57
 * Ven 05 sep 2014: 53, cf TP06
 * Jeu 04 sep 2014: 43, toujours des pandigitaux
 * Mer 03 sep 2014: 41, rigolo car il n'y a pas tellement de "n" qui marchent...
