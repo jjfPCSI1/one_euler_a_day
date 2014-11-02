@@ -16,13 +16,15 @@ TODO
 Problème déjà faits par mes amis et non encore résolus par moi:
 - [x] 21
 - [x] 32
+- [ ] 31
+- [ ] 33
 - [x] 36
+- [ ] 39
 - [x] 42 
 - [x] 52 
+- [ ] 54
 - [x] 92
 - [x] 97
-
-Bon, pour le moment, tout est fait :o)
 
 Done
 ====
